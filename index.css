@@ -40,13 +40,12 @@ h2 {
 .outer_wrapper {
 	max-width: 1600px;
 	margin: 0 auto;
-	/* padding: 0 8px; */
 }
 
 .main_wrapper {
 	max-width: 1200px;
 	margin:0 auto;
-	/* padding: 0 8px; */
+	padding: 0 8px;
 }
 
 .clear::after {
